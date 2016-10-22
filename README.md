@@ -1,2 +1,2 @@
 # resources
-Talks and posters
+
